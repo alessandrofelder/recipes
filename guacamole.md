@@ -10,3 +10,6 @@ Peel the avocado.
 Squeeze the lime.
 Mix all the ingredients.
 Enjoy guacamole ;-)
+
+## try with
+Salmon
