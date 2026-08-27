@@ -4,6 +4,7 @@
 * lime
 * salt
 * coriander
+* chilli flakes
 ## Instructions
 
 Peel the avocado.
