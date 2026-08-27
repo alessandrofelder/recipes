@@ -4,6 +4,7 @@
 * lime
 * salt
 * basil
+* parsley
 * chilli flakes
 ## Instructions
 
@@ -14,4 +15,5 @@ Enjoy guacamole ;-)
 
 ## try with
 -Salmon
+-Not fried tofu
 -Fried tofu
