@@ -3,6 +3,7 @@
 * avocado
 * lime
 * salt
+* coriander
 ## Instructions
 
 Peel the avocado.
