@@ -3,7 +3,7 @@
 * avocado
 * lime
 * salt
-* coriander
+* basil
 * chilli flakes
 ## Instructions
 
