@@ -13,5 +13,6 @@ Mix all the ingredients.
 Enjoy guacamole ;-)
 
 ## try with
-Salmon
-Not fried tofu
+-Salmon
+-Not fried tofu
+-Fried tofu
